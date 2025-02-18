@@ -1,5 +1,5 @@
 ---
-permalink: /Professional_activities/
+permalink: /professional_activities/
 title: "Professional activities"
 author_profile: true
 ---
