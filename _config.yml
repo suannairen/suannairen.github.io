@@ -28,7 +28,7 @@ author:
   bio              : "ZJU"
   location         : "Hangzhou"
   employer         : "Zhejiang University"
-  uri              : # URL
+  uri              : 'https://person.zju.edu.cn/qihongsheng'
   email            : "qihongsheng@zju.edu.cn" 
 
   # Academic websites
