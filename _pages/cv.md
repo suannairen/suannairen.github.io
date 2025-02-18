@@ -39,7 +39,28 @@ SELECTED HONORS & AWARDS
 * 2018	College of Civil Engineering and Architecture, "My favorite teacher" 
 * 2009	First Prize of Jilin Province Science and Technology Progress Award
   
-  
+
+PERSONNEL: STUDENT SUPERVISION / MENTORING, TEACHING, DISSERTATION COMMITTEES, RESEARCHERS, AND OUTREACH
+=======
+## M.S. Students Advised as Chair
+* Ao Sun, Transportation, Fall 2023 – Present
+* Nairen Zhang, Transportation, Fall 2023 – Present
+* Dongming Yang, Transportation, Fall 2023 – Present
+* Ruojian Li, Transportation, Fall 2022 – present
+* Yanqing Zhao, Transport Engineering, Fall 2022 – present
+* Yue Pan, Transportation, Fall 2021 – Present
+* Jiahao Zhang, Transportation, Fall 2021 – Present
+* Yuyan Ying, Transport Engineering, Fall 2020 – Spring 2023
+* Yukai Zhang, Road and Traffic Engineering, Fall 2020 – Spring 2023
+* Rumeng Dai, Transport Engineering, Fall 2019 – Spring 2022
+
+## Undergraduate Students Advised as Chair
+* Lei Yu, College of Civil Engineering and Architecture, Summer 2021 – Summer 2022<br>
+Graduated: Summer 2022
+* Ruihua Huang, College of Civil Engineering and Architecture, Summer 2021 – Summer 2022<br>
+Graduated: Summer 2022
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}

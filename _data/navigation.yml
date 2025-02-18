@@ -9,9 +9,13 @@ main:
   - title: "Publication"
     url: /publication/
 
+  - title: "Intellectual property"
+    url: /property/
+
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /cv/
-    
+  
+
