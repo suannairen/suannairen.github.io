@@ -1,5 +1,5 @@
 ---
-title: "Traffic Engineering Design"
+title: "Urban Road and Traffic Planning"
 collection: teaching
 type: "Undergrad course"
 permalink: /teaching/2025-fall-teaching-2
