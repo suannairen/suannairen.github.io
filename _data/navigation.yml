@@ -5,11 +5,9 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
    
-  - title: "Contact"
-    url: /contactme/
+  - title: "Publication"
+    url: /publication/
 
   - title: "Teaching"
     url: /teaching/    

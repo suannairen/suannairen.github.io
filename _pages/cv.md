@@ -38,14 +38,6 @@ SELECTED HONORS & AWARDS
 * 2018	Zhejiang University Education Foundation Civil Architecture Planning Education Fund Gardener Award
 * 2018	College of Civil Engineering and Architecture, "My favorite teacher" 
 * 2009	First Prize of Jilin Province Science and Technology Progress Award
-
-
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
   
 Teaching
