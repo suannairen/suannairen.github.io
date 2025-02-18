@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2011	PhD in Traffic Information Engineering & Control .<br>
+Thesis: Research on the Modelling of Network Traffic Flow Considering Signal Control.<br>
+Jilin University, China
+* 2008	MSE in Traffic Information Engineering & Control.<br>
+Thesis: Research on Road Vehicle Queue Estimation <br>
+Jilin University, China<br>
+* 2006	BSE in Traffic Information Engineering & Control.<br>
+Jilin University, China<br>
 
 Work experience
 ======
